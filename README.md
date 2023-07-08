@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jack
 
+I am a full stack-web developer interested in politics, technology, and finance. My projects aim to promote political transparency among American leaders and voters.
 <!--
 **jackmccain/jackmccain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
