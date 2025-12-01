@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 👋
 
-I'm a full stack-web developer interested in politics, technology, and finance. My projects aim to promote political transparency among American leaders and voters. To learn more about me, visit my <a target="_blank" href="https://jmccain.com" rel="noreferrer noopener"> personal website</a>.
+To learn more about me, check out my <a target="_blank" href="https://jmccain.com" rel="noreferrer noopener"> website</a>.
 <!--
 **jackmccain/jackmccain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
