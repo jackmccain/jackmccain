@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 👋
 
-To learn more about me, check out my <a target="_blank" href="https://jmccain.com" rel="noreferrer noopener"> website</a>.
+Check out my <a target="_blank" href="https://jmccain.com" rel="noreferrer noopener"> website</a>.
 <!--
 **jackmccain/jackmccain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
